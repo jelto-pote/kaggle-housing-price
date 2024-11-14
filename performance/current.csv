@@ -1,3 +1,3 @@
 name,perf,kfold_perf,params,timestamp
-XGBRegressor,63360.81395104884,63360.81 (1357.80),"{'max_depth': 15, 'max_bin': 1323, 'learning_rate': 0.18511691060487323, 'n_estimators': 978, 'subsample': 0.8719392990699486, 'colsample_bytree': 0.5662714588201581, 'gamma': 2.067510660342859, 'min_child_weight': 4, 'lambda': 0.2892742410598309, 'alpha': 1.7835874055087897, 'enable_categorical': True}",2024-11-14 12:58:48
-CatBoostRegressor,,,"{'iterations': 413, 'depth': 5, 'learning_rate': 0.06068566435065785, 'l2_leaf_reg': 3.038823576749167, 'bagging_temperature': 0.8475727322252122, 'verbose': False}",2024-11-14 12:58:48
+XGBRegressor,,,"{'max_depth': 16, 'max_bin': 286, 'learning_rate': 0.33252828181108585, 'n_estimators': 419, 'subsample': 0.8024604795775305, 'colsample_bytree': 0.8584778876175422, 'gamma': 3.6389546326990256, 'min_child_weight': 5, 'lambda': 2.971501270758925, 'alpha': 2.429506388912289, 'enable_categorical': True}",2024-11-14 16:40:48
+CatBoostRegressor,,,"{'iterations': 475, 'depth': 7, 'learning_rate': 0.10790914795996023, 'l2_leaf_reg': 6.844275608100268, 'bagging_temperature': 0.7913072664360203, 'verbose': False}",2024-11-14 16:40:48
