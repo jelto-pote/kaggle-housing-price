@@ -1,0 +1,28 @@
+{
+    "XGBRegressor": {
+        "model": "XGBRegressor",
+        "handles_cat": true,
+        "handles_sparse": true,
+        "params": {},
+        "obj_func": "obj_xgb",
+        "retune": 1,
+        "refit": 1,
+        "pred_proba": "",
+        "proba_func": "predict",
+        "perf": "",
+        "kfold_perf": ""
+    },
+    "CatBoostRegressor": {
+        "model": "CatBoostRegressor",
+        "handles_cat": true,
+        "handles_sparse": true,
+        "params": {},
+        "obj_func": "obj_cat",
+        "retune": 1,
+        "refit": 1,
+        "pred_proba": "",
+        "proba_func": "predict",
+        "perf": "",
+        "kfold_perf": ""
+    }
+}

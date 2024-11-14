@@ -1,0 +1,15 @@
+Microproject for Sopra Steria
+
+To improve:
+
+Code:
+- Generalize: allow for input of multiple training files
+- Fix the API on Heroku
+
+EDA/Features:
+    - Plot coordinates on a map
+    - Separate cities, semi-rural and rural areas. Comparison of data **within** a certain context could be beneficial, instead of comparing all data with all data. Different mechanisms can be at play in different areas - like in a city, more population could mean higher prices (nice view, cool skyscrapers, nice place to live, close to interesting things. In rural areas, a relatively high population could be seen as a disadvantage because people are looking for solitude and calmness. So different principles could possibly guide different types of areas
+    - Try out more features
+    - Remove outliers
+    - Include cross validation in objective functions
+

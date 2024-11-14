@@ -1,0 +1,11 @@
+{
+    "eda_when": "before",
+    "task_type": "regression",
+    "scoring": "neg_root_mean_squared_error",
+    "perf_metric_direction": "minimize",
+    "n_trials": 1,
+    "calculate_kfold": 0,
+    "plots": [0,        0,        0,          0,            0,    1,  1,    1],
+    "dummy": "#num_plot, cat_plot, mixed_plot, single_plot, skew, mi, corr, imp",
+    "runtime": "get_current_time"
+}   
